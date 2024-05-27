@@ -129,7 +129,7 @@ function Chatbot() {
   return (
     <>
       <div className='header'>
-        <h1>Design Thinking</h1>
+        <h1>Clara</h1>
       </div>
       <div className="chatbot">
         <MainContainer>
