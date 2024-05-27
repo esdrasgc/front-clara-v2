@@ -1,0 +1,6 @@
+html, body {
+    height: 100%; /* Garante que o HTML e o body ocupem toda a altura da janela */
+    margin: 0; /* Remove a margem padrão */
+    padding: 0; /* Remove o preenchimento padrão */
+    overflow-x: hidden; /* Evita rolagem horizontal */
+}
